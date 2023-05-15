@@ -1,0 +1,39 @@
+
+
+.heading{
+    width: 100%;
+    text-align: left;
+
+}
+
+.heading h3{
+    display: inline;
+
+}
+
+.heading button{
+    float: right;
+    border: 1px solid blue;
+}
+
+.copy_right_footer{
+    width: 100%;
+    margin: 0px;
+    background-color: blue;
+    bottom: 0;
+    line-height: 2;
+    position: fixed;
+}
+
+
+.instructions{
+    background-color: green;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px gold;
+
+}
